@@ -34,6 +34,23 @@ A) No, I have learnt new tags and videos are really helpful to complete lab exer
 topic a little better?
 A) Despite this lab consisting of just a single exercise, Starting from the basics and gradually working through exercises provides us with deeper insights into what needs to be done and which tags need to be used, even as the complexity of the exercises increases.
 
+03-CSS Lab Exercise
+
+1) Were you able to complete the exercises on your own or did you use the
+videos or the solutions for help?
+A) The playlist of CSS tutorial videos helped me in understanding how to declare class in CSS and also in understanding complex topics where I had struggled, such as pixels and colors, which were accurately assigned.
+
+2) How helpful did you find the exercises in this section? Was there one
+exercise that was particularly helpful?
+A) The exercises within the 03-css lab were both challenging and rewarding. Among them, the media queries task was particularly enlightening, offering fresh perspectives on managing pixels and refining layouts with precision.
+
+3)Was there something that you wish had been explained better?
+A) I found this lab exercise to be quite intuitive and straightforward, making it easy to grasp and comprehend.
+
+4) Were there other exercises that might have helped you learn this week’s topic a little better?
+A) Despite containing just one exercise, I completed this lab with ease, drawing on my previous experience in running accessibility tests from both previous labs and homework 1. This week's topic has further solidified my foundational understanding of the subject matter.
+
+
 ### Accessibility
 01-HTML Lab Exercise
 
@@ -43,6 +60,10 @@ in the input fields for name and email, which can be helpful for understanding w
 02-a11y Lab Exercise
 
 I used WAVE AIM to assess the accessibility of all four HTML tasks and verified the HTML code through the W3C Markup Validation Service.
+
+03-CSS Lab Exercise
+
+I conducted accessibility evaluations on all four HTML tasks using WAVE AIM, ensuring adherence to accessibility standards. Additionally, I validated the HTML code through the W3C Markup Validation Service to confirm compliance with industry best practices.x
 
 
 
