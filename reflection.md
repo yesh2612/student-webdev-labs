@@ -50,6 +50,19 @@ A) I found this lab exercise to be quite intuitive and straightforward, making i
 4) Were there other exercises that might have helped you learn this week’s topic a little better?
 A) Despite containing just one exercise, I completed this lab with ease, drawing on my previous experience in running accessibility tests from both previous labs and homework 1. This week's topic has further solidified my foundational understanding of the subject matter.
 
+04-Flexbox Lab Exercise
+
+ 1) Were you able to complete the exercises on your own, or did you use the videos or the solutions for help?
+ A) I relied on the instructional videos available in the Canvas playlist to ensure that all the values were correctly assigned. This exercise proved to be somewhat challenging, particularly because making the necessary adjustments for each flex container required a considerable amount of time and attention to detail.
+
+ 2. How helpful did you find the exercises in this section? Was there one exercise that was particularly helpful?
+ A) Working on the flexbox task was quite demanding but enlightening, particularly in understanding new CSS concepts such as the application of flex-flow.
+
+3. Was there something that you wish had been explained better?
+A) The instructional videos provided a comprehensive understanding of the concepts. Initially, applying these concepts in practice was tough, but repeatedly viewing the lectures and attempting the exercise several times eventually led to a thorough grasp of the material.
+
+4) Were there other exercises that might have helped you learn this week’s topic a little better?
+A) I'm gradually becoming more familiar with its properties. The exercises assigned this week have been particularly informative, enhancing my understanding of CSS. I find this exercise to be an excellent learning tool.
 
 ### Accessibility
 01-HTML Lab Exercise
@@ -63,8 +76,9 @@ I used WAVE AIM to assess the accessibility of all four HTML tasks and verified 
 
 03-CSS Lab Exercise
 
-I conducted accessibility evaluations on all four HTML tasks using WAVE AIM, ensuring adherence to accessibility standards. Additionally, I validated the HTML code through the W3C Markup Validation Service to confirm compliance with industry best practices.x
+I conducted accessibility evaluations on all four HTML tasks using WAVE AIM, ensuring adherence to accessibility standards. Additionally, I validated the HTML code through the W3C Markup Validation Service to confirm compliance with industry best practices.
 
-
+04-Flexbox Lab Exercise
+I performed accessibility checks on all four HTML projects using WAVE AIM to guarantee they met accessibility norms. Furthermore, I used the W3C Markup Validation and W3C CSS Validation Service to validate the HTML and CSS code, ensuring they align with established industry standards.
 
 Enter your reflections on this section here.
