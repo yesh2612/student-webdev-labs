@@ -64,6 +64,30 @@ A) The instructional videos provided a comprehensive understanding of the concep
 4) Were there other exercises that might have helped you learn this week’s topic a little better?
 A) I'm gradually becoming more familiar with its properties. The exercises assigned this week have been particularly informative, enhancing my understanding of CSS. I find this exercise to be an excellent learning tool.
 
+05-CSS-grid Lab Exercise
+1) Were you able to complete the exercises on your own, or did you use the videos or the solutions for help?
+A) I found the implementation of grids and sorting techniques to be unfamiliar, so I turned to the instructional videos available on Canvas. Through these resources, I gained a practical understanding of how to implement these concepts effectively.
+
+2. How helpful did you find the exercises in this section? Was there one exercise that was particularly helpful?
+A) Exploring grids was a fresh learning experience for me, and the exercises served as an excellent introduction to this topic. Through practicing sorting grids and making adjustments, I gained valuable insights and a solid foundation in this area.
+
+3. Was there something that you wish had been explained better?
+A) The instructional videos provided a comprehensive explanation of the topic, leaving me with little uncertainty. I feel confident that I've grasped the concepts thoroughly and didn't encounter any significant challenges in understanding the material presented.
+
+4) Were there other exercises that might have helped you learn this week’s topic a little better?
+A) I'm steadily gaining familiarity with the properties, thanks to the exercises assigned this week. Utilizing these exercises as a learning tool has been immensely beneficial to my progress.
+06-bootstrap Lab Exercise
+1. Were you able to complete the exercises on your own, or did you use the videos or the solutions for help?
+A) I used the playlist available on Canvas for guidance as I began exploring a new topic. The lecture videos, combined with practical exercises, enhanced my basic understanding of Bootstrap and solidified my grasp of the subject.
+
+2. How helpful did you find the exercises in this section? Was there one exercise that was particularly helpful?
+A) Each Bootstrap exercise was beneficial, and every task contributed to increasing my knowledge in the subject.
+
+3. Was there something that you wish had been explained better?
+A) I found the lecture videos to clearly elucidate the concepts. Initially, applying these concepts in practice was difficult, but repeatedly watching the lectures and attempting the exercises multiple times aided in developing a thorough understanding of the material.
+
+4)  Were there other exercises that might have helped you learn this week’s topic a little better?
+A) Being new to the topic, the four exercises provided a deeper insight into the subject for me. I found enjoyment in completing these tasks.
 ### Accessibility
 01-HTML Lab Exercise
 
@@ -80,5 +104,11 @@ I conducted accessibility evaluations on all four HTML tasks using WAVE AIM, ens
 
 04-Flexbox Lab Exercise
 I performed accessibility checks on all four HTML projects using WAVE AIM to guarantee they met accessibility norms. Furthermore, I used the W3C Markup Validation and W3C CSS Validation Service to validate the HTML and CSS code, ensuring they align with established industry standards.
+
+05-CSS-grid Lab Exercise
+I ensured the adherence to accessibility norms across all four HTML projects by conducting thorough accessibility checks with WAVE AIM. Additionally, I validated the HTML and CSS code against industry standards using the W3C Markup Validation and W3C CSS Validation Service, ensuring alignment with best practices.
+
+06-bootstrap Lab Exercise
+In HTML file, I made certain to comply with accessibility standards, using WAVE AIM for extensive accessibility assessments. Moreover, I confirmed that the HTML and CSS code met professional norms by utilizing the W3C Markup Validation and W3C CSS Validation Service, aligning with established best practices.
 
 Enter your reflections on this section here.
