@@ -3,9 +3,12 @@ const formatItems = (input) => {
 
   // for reference, see the MDN Number page:
   // https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Number
-
-  return input;
-};
+  let results = [];
+  for (let item of input) {
+    results.push(item.toFixed(3));
+  };
+  return results.join(", ");
+}
 
 console.log(formatItems([1, 4, 17, 26, 41]));
 // expected: '1.000, 4.000, 17.000, 26.000, 41.000'

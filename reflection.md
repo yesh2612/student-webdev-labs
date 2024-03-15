@@ -76,6 +76,7 @@ A) The instructional videos provided a comprehensive explanation of the topic, l
 
 4) Were there other exercises that might have helped you learn this week’s topic a little better?
 A) I'm steadily gaining familiarity with the properties, thanks to the exercises assigned this week. Utilizing these exercises as a learning tool has been immensely beneficial to my progress.
+
 06-bootstrap Lab Exercise
 1. Were you able to complete the exercises on your own, or did you use the videos or the solutions for help?
 A) I used the playlist available on Canvas for guidance as I began exploring a new topic. The lecture videos, combined with practical exercises, enhanced my basic understanding of Bootstrap and solidified my grasp of the subject.
@@ -88,6 +89,20 @@ A) I found the lecture videos to clearly elucidate the concepts. Initially, appl
 
 4)  Were there other exercises that might have helped you learn this week’s topic a little better?
 A) Being new to the topic, the four exercises provided a deeper insight into the subject for me. I found enjoyment in completing these tasks.
+
+06-JavaScript Lab Exercise
+1. Were you able to complete the exercises on your own, or did you use the videos or the solutions for help?
+A) Java Script Tutorial videos helped me in completing this exercise. I tried on my own, and I watched JS videos where I am not sure.
+
+2. How helpful did you find the exercises in this section? Was there one exercise that was particularly helpful?
+A) Each JavaScript exercise proved valuable, with each task enhancing my understanding of the subject matter.
+
+3) Was there something that you wish had been explained better?
+A) The lecture videos effectively explained the concepts, though initially, putting them into practice posed challenges. However, through repeated viewing of the lectures and multiple attempts at the exercises, I managed to gain a comprehensive grasp of the material.
+
+4)  Were there other exercises that might have helped you learn this week’s topic a little better?
+A) I have learned new methods and how to use them. I derive satisfaction from finishing these assignments.
+
 ### Accessibility
 01-HTML Lab Exercise
 
@@ -110,5 +125,9 @@ I ensured the adherence to accessibility norms across all four HTML projects by 
 
 06-bootstrap Lab Exercise
 In HTML file, I made certain to comply with accessibility standards, using WAVE AIM for extensive accessibility assessments. Moreover, I confirmed that the HTML and CSS code met professional norms by utilizing the W3C Markup Validation and W3C CSS Validation Service, aligning with established best practices.
+
+07-JavaScript Lab Exercise
+I have written the code in the EC6 version of JavaScript.
+
 
 Enter your reflections on this section here.
