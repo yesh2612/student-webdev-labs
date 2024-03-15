@@ -90,7 +90,7 @@ A) I found the lecture videos to clearly elucidate the concepts. Initially, appl
 4)  Were there other exercises that might have helped you learn this week’s topic a little better?
 A) Being new to the topic, the four exercises provided a deeper insight into the subject for me. I found enjoyment in completing these tasks.
 
-06-JavaScript Lab Exercise
+07-JavaScript Lab Exercise
 1. Were you able to complete the exercises on your own, or did you use the videos or the solutions for help?
 A) Java Script Tutorial videos helped me in completing this exercise. I tried on my own, and I watched JS videos where I am not sure.
 
@@ -102,6 +102,19 @@ A) The lecture videos effectively explained the concepts, though initially, putt
 
 4)  Were there other exercises that might have helped you learn this week’s topic a little better?
 A) I have learned new methods and how to use them. I derive satisfaction from finishing these assignments.
+
+08- Jquery
+1. Were you able to complete the exercises on your own, or did you use the videos or the solutions for help?
+A) The tutorial videos were instrumental in my completion of this exercise.
+
+2. How helpful did you find the exercises in this section? Was there one exercise that was particularly helpful?
+A) Every JavaScript exercise was beneficial, contributing to the improvement of my comprehension of the subject matter.
+
+3. Was there something that you wish had been explained better?
+A) While the lecture videos provided effective explanations of the concepts, applying them initially presented difficulties. Nevertheless, with consistent review of the lectures and multiple practice attempts, I attained a thorough understanding of the material.
+
+4. Were there other exercises that might have helped you learn this week’s topic a little better?
+A) I've acquired knowledge of new methods and their application, and completing these assignments brings me a sense of fulfillment.
 
 ### Accessibility
 01-HTML Lab Exercise
@@ -129,5 +142,7 @@ In HTML file, I made certain to comply with accessibility standards, using WAVE 
 07-JavaScript Lab Exercise
 I have written the code in the EC6 version of JavaScript.
 
+08- jquery
+I've coded using the ES6 version of JavaScript.
 
 Enter your reflections on this section here.
